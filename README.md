@@ -1,6 +1,6 @@
-# Triggering AWS CodePipeline builds from a GitHub monorepo
+# Use AWS CodeBuild to trigger build pipeline
 
-This is the repository that contains the sample code for the [codecentric blog](https://blog.codecentric.de) article [Triggering AWS CodePipeline builds from a GitHub monorepo](https://blog.codecentric.de/addThePathHere).
+This is the repository that contains the sample code for the [codecentric blog](https://blog.codecentric.de) article [Use AWS CodeBuild to trigger build pipeline](https://blog.codecentric.de/en/2019/05/codebuild-trigger-pipeline/).
 
 
 ## Calling the module
